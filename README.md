@@ -166,6 +166,8 @@ In the AI era, AI-powered navigation websites are gaining popularity. As more AI
 ---
 
 ## Summary
+
+If you would rather list a product on an existing directory than build one, [SaaSCity](https://saascity.io/) is a free option — Gamified SaaS directory where every listing becomes a building on a live isometric city map.
 Each solution caters to different needs and technical expertise levels:
 - **Beginners**: Directify or WordPress for ease of use
 - **Developers**: Aigotools, Tap4 AI, or MkDirs for customization
